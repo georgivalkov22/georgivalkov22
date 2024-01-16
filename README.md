@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi Valkov</h1>
-<h3 align="center">A Uni graduate with a passion for programming and games</h3>
+<h3 align="center">I am a recent University graduate with a Bachelor's degree in computer science, passionate about programming and game development. I am enthusiastic about leveraging my academic knowledge and technical skills to create engaging and innovative game experiences.</h3>
 
 - 🌱 I’m currently learning **3D object development**
 
